@@ -70,7 +70,7 @@ form{
     flex-direction: column;
     align-items: flex-start;
     width: 100%;
-    font-size: 1.4rem;
+    font-size: 1rem;
 }
 
 .data input{
@@ -78,6 +78,7 @@ form{
     padding: .7rem;
     border: 2px solid grey;
     border-radius: 5px;
+    font-size: 1.4rem;
 }
 
 .rem{
