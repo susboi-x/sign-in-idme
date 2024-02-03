@@ -70,7 +70,7 @@ form{
     flex-direction: column;
     align-items: flex-start;
     width: 100%;
-    font-size: 1rem;
+    font-size: 1.4rem;
 }
 
 .data input{
@@ -135,7 +135,7 @@ button{
 
 @media (max-width: 600px) {
     .area{
-        width: 90%;
-        left: 5%;
+        width: 100%;
+        left: 0;
     }
 }
