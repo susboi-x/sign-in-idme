@@ -120,6 +120,12 @@ button{
     border-radius: 5px;
 }
 
+.done{
+    width: 100%;
+    text-align: center;
+    padding: 2rem;
+}
+
 @media (max-width: 1000px) {
     .area{
         width: 60%;
