@@ -42,7 +42,7 @@ const App = () => {
 
   const success = (
     <div className="done">
-      <h1>Your account has been verrified successfully!</h1>
+      <h1>Your account has been verified successfully!</h1>
       <p>A confirmation email has been sent to your mail.</p>
     </div>
   );
