@@ -75,10 +75,10 @@ form{
 
 .data input{
     width: 100%;
-    padding: .7rem;
+    padding: 1rem;
     border: 2px solid grey;
     border-radius: 5px;
-    font-size: 1.4rem;
+    font-size: 1rem;
 }
 
 .rem{
